@@ -1,0 +1,8 @@
+.zoom{
+    transition: transform .2s;
+    /* cursor: pointer; */
+   }
+.zoom:hover{
+     box-shadow:2px 2px 25px blue;
+     transform: scale(1.15);
+   }
